@@ -1,8 +1,12 @@
 # DockerSurfer
 
+**⚠️ Project status:**  
+I'm working to get this app online again.  
+If you are interested in running it locally, feel free to reach out!
+
 ## Overview
 
-Docker Surfer is a web service that you can find [here](http://dockersurfer.com). It offers a graphical interface to browse and analyze Docker dependencies between images. It also provides information about images popularity and stability. Dependencies are created by looking at the layers. For more details read my [thesis](https://github.com/Simone-Erba/DockerSurfer/blob/master/DockerSurferThesis.pdf).
+Docker Surfer is a web service that offers a graphical interface to browse and analyze Docker dependencies between images. It also provides information about images popularity and stability. Dependencies are created by looking at the layers. For more details read my [thesis](https://github.com/Simone-Erba/DockerSurfer/blob/master/DockerSurferThesis.pdf).
 
 ## PageRank and Central betweeness
 
